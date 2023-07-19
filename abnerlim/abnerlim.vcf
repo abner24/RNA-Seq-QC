@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Lim;Abner;;;
+FN:Abner Lim
+ORG:SingHealth Duke-NUS Institute of Biodiversity Medicine
+ADR;TYPE=WORK:National Cancer Center Singapore,
+30 Hospital Boulevard,
+Singapore 168583
+TITLE:Bioinformatician
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:+6563065417
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:abner.lim.m.s@nccs.com.sg
+URL;TYPE=Digital Business Card:
+URL:
+URL;TYPE=Twitter:https://twitter.com/abner__lim
+URL;TYPE=GitHub:https://github.com/abner24
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100136991
+END:VCARD
